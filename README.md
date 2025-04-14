@@ -1,2 +1,22 @@
-# JOB-BOARD
-Job Board application using HTML CSS and Rapidapi JSearch allows users to search, filter and view job listings posted on LinkedIn, Indeed, Glassdoor, ZipRecruiter, BeBee and many others in a single job board. Users can search for jobs by keyword, filter jobs by location or category and see detailed job descriptions when they click on a job listing.
+# Job Board
+
+A job board application that allows users to search for job opportunities, view job details, and apply directly through the portal.
+
+## Features
+
+- Search for job openings by keyword and location.
+- View job details (title, description, and requirements).
+- Apply for jobs directly from the platform.
+
+## Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: (If applicable, otherwise leave this out)
+- **Database**: (If applicable, otherwise leave this out)
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/itskhushixx/JOB-BOARD.git
